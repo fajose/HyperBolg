@@ -1,0 +1,28 @@
+* 8265d71 (HEAD -> main, origin/main) Una version del hyperblog
+*   2d9fe71 Merge pull request #1 from fajose/master
+|\  
+| * 0f69589 (origin/master) Cambie el título del blogspot
+| *   1f49297 Merge branch 'main' of https://github.com/fajose/HyperBolg
+| |\  
+| |/  
+|/|   
+* | 7b09e69 Initial commit
+ /  
+*   d9765fe Merge conflict solved
+|\  
+| * 0dd14ce (origin/cabecera, cabecera) Cambio de titulo y color de texto
+* | 5148aa3 Agregue suscripción, cambié cabecera y color de texto azul
+|/  
+* b7b0ab2 Fix typo
+*   b185df9 Merge branch 'cabecera'
+|\  
+| * a4cda77 Finalizada la cabecera con diseño azul.
+| * c70039f Cabecera Creada en branch cabecera
+* | 7d93ecc Agregado el contenido final del blog y una mejor tipografía
+|/  
+* 9e66b68 Commit al master del blogspot en su versión más reciente
+* 0d87932 Reemplazo de una versión por otra
+* 908c21c Cambio de vida
+* e78f37a Arranco mi proyecto real
+* 237528e Version 2 del archivo, se cambiaron la historia
+* 7fb5dde Version 1 del archivo
